@@ -24,4 +24,4 @@
 
 4. Run the script: `python main.py`.
 
-> For a better view we recommend the [Google Colab notebook version](https://drive.google.com/file/d/1tjVNd0iHFuEG1rwo3PSpVyqn2RbdPJXJ/view?usp=sharing).
+> For a better view we, recommend the [Google Colab notebook version](https://drive.google.com/file/d/1tjVNd0iHFuEG1rwo3PSpVyqn2RbdPJXJ/view?usp=sharing).
